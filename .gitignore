@@ -1,0 +1,16 @@
+*.rds
+*.xlsx
+*.docx
+*.csv
+*.RData
+*.ai
+*.vsdx
+*.zip
+*.json
+.Rhistory
+.RData
+.Rproj.user
+
+*.vsdx
+*.ai
+.rar

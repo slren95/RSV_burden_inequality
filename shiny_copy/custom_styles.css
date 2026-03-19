@@ -1,0 +1,49 @@
+.tag {
+  display: inline-block;
+  padding: 0.125rem 0.75rem;
+  border-radius: 15px;
+  font-weight: 600;
+  font-size: 0.75rem;
+}
+
+.status-nip-included {
+  background: #FA8072;
+  color: black;
+}
+
+.status-licensed {
+  background: #87CEEB;
+  color: black;
+}
+
+.status-canceled {
+  background: hsl(350, 70%, 90%);
+  color: hsl(350, 45%, 30%);
+}
+.team {
+  display: flex;
+  align-items: center;
+}
+
+.team-flag {
+  height: 1.3rem;
+  width: 2rem;
+  border: 1px solid #f0f0f0;
+}
+
+.team-name {
+  margin-left: 0.5rem;
+  font-size: 1.125rem;
+  font-weight: 500;
+}
+
+.team-record {
+  margin-left: 0.35rem;
+  color: hsl(0, 0%, 45%);
+  font-size: 0.8125rem;
+}
+
+body > div.navbar.navbar-static-top {
+  height:83px !important;
+}
+

@@ -1,0 +1,13 @@
+name: rsv-infant
+title: shiny
+username: slr95
+account: slr95
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14073328
+bundleId: 10111735
+url: https://slr95.shinyapps.io/rsv-infant/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_prepare.R|leaflet.R|map.R|reactable.R|vistime.R

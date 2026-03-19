@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 流程图.svg Page-2 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.11847in" height="8.52575in"
+		viewBox="0 0 584.53 613.854" xml:space="preserve" color-interpolation-filters="sRGB" class="st23">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#f2dcda;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st3 {font-size:1em}
+		.st4 {fill:#eeeaf2;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:#000000;font-family:Calibri;font-size:0.666664em;font-weight:bold}
+		.st7 {fill:#dbeef3;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st8 {fill:#f2f2f2;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {fill:#ebf1df;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st10 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st11 {fill:#000000;font-family:Calibri;font-size:0.75em}
+		.st12 {marker-end:url(#mrkr4-115);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.237638}
+		.st13 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.086174404659928}
+		.st14 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.237638}
+		.st15 {fill:#fcebdd;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st16 {fill:#fff2cc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st17 {font-size:1em;font-style:italic}
+		.st18 {font-family:Courier New;font-size:1em}
+		.st19 {fill:#fbecfb;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st20 {fill:#fcebdd;stroke:#000000;stroke-dasharray:0.75,1.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st21 {marker-end:url(#mrkr4-354);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st22 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.090252707581227}
+		.st23 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-115" class="st13" v:arrowType="4" v:arrowSize="2" v:setback="23.2087" refX="-23.208747514911"
+				orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-11.604373757455,-11.604373757455) "/>
+		</marker>
+		<marker id="mrkr4-354" class="st22" v:arrowType="4" v:arrowSize="2" v:setback="22.16" refX="-22.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-11.08,-11.08) "/>
+		</marker>
+	</defs>
+	<g v:mID="5" v:index="2" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-2</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape2-1" v:mID="2" v:groupContext="shape" transform="translate(35.705,-397.223)">
+			<title>工作表.2</title>
+			<desc>GLMM Meta-analysis of RSV-ALRI incidence rate by region</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="61.626" cy="594.931" width="123.26" height="37.8454"/>
+			<rect x="0" y="576.009" width="123.252" height="37.8454" class="st1"/>
+			<text x="4" y="587.21" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>GLMM Meta-analysis of RSV-ALRI <tspan
+						x="4" dy="1.2em" class="st3">incidence rate by region</tspan></text>		</g>
+		<g id="shape4-5" v:mID="4" v:groupContext="shape" transform="translate(35.705,-344.023)">
+			<title>工作表.4</title>
+			<desc>Regional incidence rate of RSV-ALRI in infant</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="61.626" cy="594.931" width="123.26" height="37.8454"/>
+			<rect x="0" y="576.009" width="123.252" height="37.8454" class="st1"/>
+			<text x="4" y="587.21" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Regional incidence rate of RSV-<tspan
+						x="4" dy="1.2em" class="st3">ALRI in infant</tspan></text>		</g>
+		<g id="shape9-9" v:mID="9" v:groupContext="shape" transform="translate(166.822,-344.023)">
+			<title>工作表.9</title>
+			<desc>Regional hospital admission rate of RSV-ALRI in infant</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="63.4886" cy="594.931" width="126.98" height="37.8454"/>
+			<rect x="0" y="576.009" width="126.977" height="37.8454" class="st4"/>
+			<text x="4" y="587.21" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>Regional hospital admission rate of <tspan
+						x="4" dy="1.2em" class="st3">RSV</tspan>-ALRI in infant</text>		</g>
+		<g id="shape137-13" v:mID="137" v:groupContext="shape" transform="translate(300.847,-558.916)">
+			<title>工作表.137</title>
+			<desc>Regional and global estimates of in-hospital RSV-ALRI deaths</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="63.4886" cy="601.022" width="126.98" height="25.6642"/>
+			<rect x="0" y="588.19" width="126.977" height="25.6642" class="st5"/>
+			<text x="4" y="599.39" class="st6" v:langID="2052"><v:paragraph/><v:tabList/>R<tspan class="st3" v:langID="1033">egional and global estimates of <v:newlineChar/></tspan><tspan
+						x="4" dy="1.2em" class="st3" v:langID="1033">in</tspan><tspan class="st3" v:langID="1033">-</tspan><tspan
+						class="st3" v:langID="1033">hospital RSV</tspan><tspan class="st3" v:langID="1033">-</tspan><tspan
+						class="st3" v:langID="1033">ALRI deaths</tspan></text>		</g>
+		<g id="shape10-22" v:mID="10" v:groupContext="shape" transform="translate(302.936,-503.68)">
+			<title>工作表.10</title>
+			<desc>Systematic review for hospital-based studies reporting RSV-AL...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="61.626" cy="586.132" width="123.26" height="55.4439"/>
+			<rect x="0" y="558.41" width="123.252" height="55.4439" class="st7"/>
+			<text x="4" y="569.61" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>Systematic review for hospital-<tspan
+						x="4" dy="1.2em" class="st3">based studies reporting RSV</tspan>-ALRI <tspan x="4" dy="1.2em" class="st3">hCFR</tspan></text>		</g>
+		<g id="shape11-27" v:mID="11" v:groupContext="shape" transform="translate(302.936,-344.023)">
+			<title>工作表.11</title>
+			<desc>Regional RSV-ALRI hCFR</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="63.4886" cy="594.931" width="126.98" height="37.8454"/>
+			<rect x="0" y="576.009" width="126.977" height="37.8454" class="st7"/>
+			<text x="4" y="587.21" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Regional RSV-ALRI hCFR</text>		</g>
+		<g id="shape136-30" v:mID="136" v:groupContext="shape" transform="translate(165.366,-558.916)">
+			<title>工作表.136</title>
+			<desc>Regional and global estimates of RSV-ALRI hospital admissions</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="67.7406" cy="601.022" width="135.49" height="25.6642"/>
+			<rect x="0" y="588.19" width="135.481" height="25.6642" class="st5"/>
+			<text x="4" y="599.39" class="st6" v:langID="1033"><v:paragraph/><v:tabList/>Regional and global estimates of <v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st3">RSV</tspan>-ALRI <tspan class="st3" v:langID="2052">hospital admissions</tspan></text>		</g>
+		<g id="shape12-35" v:mID="12" v:groupContext="shape" transform="translate(166.822,-503.68)">
+			<title>工作表.12</title>
+			<desc>Systematic review for hospital-based studies with passive cas...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="63.4886" cy="586.132" width="126.98" height="55.4439"/>
+			<rect x="0" y="558.41" width="126.977" height="55.4439" class="st4"/>
+			<text x="4" y="569.61" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>Systematic review for hospital-<tspan
+						x="4" dy="1.2em" class="st3">based studies with passive case </tspan><tspan x="4" dy="1.2em" class="st3">ascertainment reporting RSV</tspan>-ALRI <tspan
+						x="4" dy="1.2em" class="st3">hospital admission rate </tspan> </text>		</g>
+		<g id="shape15-41" v:mID="15" v:groupContext="shape" transform="translate(166.822,-397.223)">
+			<title>工作表.15</title>
+			<desc>GLMM Meta-analysis of RSV-ALRI hospital admission rate by reg...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="63.4886" cy="594.931" width="126.98" height="37.8454"/>
+			<rect x="0" y="576.009" width="126.977" height="37.8454" class="st4"/>
+			<text x="4" y="587.21" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GLMM Meta-analysis of RSV-ALRI <tspan
+						x="4" dy="1.2em" class="st3">hospital admission rate by region</tspan></text>		</g>
+		<g id="shape19-45" v:mID="19" v:groupContext="shape" transform="translate(128.695,-310.884)">
+			<title>工作表.19</title>
+			<desc>Infant population (2019)</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="34.297" cy="601.022" width="68.6" height="25.6642"/>
+			<rect x="0" y="588.19" width="68.594" height="25.6642" class="st8"/>
+			<text x="4" y="599.39" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Infant population <v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st3">(</tspan>2019)</text>		</g>
+		<g id="shape23-49" v:mID="23" v:groupContext="shape" transform="translate(35.705,-449.241)">
+			<title>工作表.23</title>
+			<desc>Imputation* of missing RSV-ALRI incidence rate data for infants</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="61.626" cy="594.931" width="123.26" height="37.8454"/>
+			<rect x="0" y="576.009" width="123.252" height="37.8454" class="st1"/>
+			<text x="4" y="587.21" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Imputation* of missing RSV-ALRI <tspan
+						x="4" dy="1.2em" class="st3">incidence rate data for infants</tspan></text>		</g>
+		<g id="shape24-53" v:mID="24" v:groupContext="shape" transform="translate(166.822,-449.241)">
+			<title>工作表.24</title>
+			<desc>Imputation* of missing RSV-ALRI hospital admission rate data ...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="63.4886" cy="594.931" width="126.98" height="37.8454"/>
+			<rect x="0" y="576.009" width="126.977" height="37.8454" class="st4"/>
+			<text x="4" y="587.21" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>Imputation* of missing RSV-ALRI <tspan
+						x="4" dy="1.2em" class="st3">hospital admission rate</tspan><tspan class="st3" v:langID="2052"> </tspan>data for <tspan
+						x="4" dy="1.2em" class="st3" v:langID="2052">infants</tspan></text>		</g>
+		<g id="shape47-59" v:mID="47" v:groupContext="shape" transform="translate(378.942,-223.887)">
+			<title>工作表.47</title>
+			<desc>Infant population (2026, predicted)</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="34.297" cy="601.022" width="68.6" height="25.6642"/>
+			<rect x="0" y="588.19" width="68.594" height="25.6642" class="st8"/>
+			<text x="4" y="599.39" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Infant population<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st3">(</tspan>2026, predicted)</text>		</g>
+		<g id="shape135-63" v:mID="135" v:groupContext="shape" transform="translate(33.0286,-558.916)">
+			<title>工作表.135</title>
+			<desc>Regional and global estimates of RSV-ALRI episodes</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="61.626" cy="601.022" width="123.26" height="25.6642"/>
+			<rect x="0" y="588.19" width="123.252" height="25.6642" class="st5"/>
+			<text x="4" y="599.39" class="st6" v:langID="1033"><v:paragraph/><v:tabList/>Regional and global estimates of <tspan
+						x="4" dy="1.2em" class="st3">RSV</tspan>-ALRI episodes</text>		</g>
+		<g id="shape49-67" v:mID="49" v:groupContext="shape" transform="translate(35.705,-503.68)">
+			<title>工作表.49</title>
+			<desc>Systematic review for community-based studies with active cas...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="61.626" cy="586.132" width="123.26" height="55.4439"/>
+			<rect x="0" y="558.41" width="123.252" height="55.4439" class="st1"/>
+			<text x="4" y="569.61" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Systematic review for community-<tspan
+						x="4" dy="1.2em" class="st3">based studies with active case </tspan><tspan x="4" dy="1.2em" class="st3">ascertainment reporting RSV</tspan>-ALRI <tspan
+						x="4" dy="1.2em" class="st3">incidence</tspan></text>		</g>
+		<g id="shape50-73" v:mID="50" v:groupContext="shape" transform="translate(302.936,-397.223)">
+			<title>工作表.50</title>
+			<desc>GLMM meta-analysis of RSV-ALRI hCFR by region</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="63.4886" cy="594.931" width="126.98" height="37.8454"/>
+			<rect x="0" y="576.009" width="126.977" height="37.8454" class="st7"/>
+			<text x="4" y="587.21" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>GLMM meta-analysis of RSV-ALRI <tspan
+						x="4" dy="1.2em" class="st3">hCFR by region</tspan></text>		</g>
+		<g id="shape51-77" v:mID="51" v:groupContext="shape" transform="translate(35.2475,-263.994)">
+			<title>工作表.51</title>
+			<desc>Number of global and regional episodes of RSV-ALRI in 2019</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="61.626" cy="594.931" width="123.26" height="37.8454"/>
+			<rect x="0" y="576.009" width="123.252" height="37.8454" class="st1"/>
+			<text x="4" y="587.21" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Number of global and regional <tspan x="4"
+						dy="1.2em" class="st3">episodes of RSV</tspan>-ALRI in 2019</text>		</g>
+		<g id="shape52-81" v:mID="52" v:groupContext="shape" transform="translate(164.916,-263.994)">
+			<title>工作表.52</title>
+			<desc>Number of global and regional RSV-ALRI hospital admissions in...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="64.6453" cy="594.931" width="129.3" height="37.8454"/>
+			<rect x="0" y="576.009" width="129.291" height="37.8454" class="st4"/>
+			<text x="4" y="587.21" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>Number of global and regional RSV-<tspan
+						x="4" dy="1.2em" class="st3">ALRI hospital admission</tspan><tspan class="st3" v:langID="2052">s</tspan> in 2019</text>		</g>
+		<g id="shape53-86" v:mID="53" v:groupContext="shape" transform="translate(302.936,-263.994)">
+			<title>工作表.53</title>
+			<desc>Number of global and regional RSV-ALRI in-hospital deaths in ...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="63.4886" cy="594.931" width="126.98" height="37.8454"/>
+			<rect x="0" y="576.009" width="126.977" height="37.8454" class="st7"/>
+			<text x="4" y="587.21" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Number of global and regional RSV-<tspan
+						x="4" dy="1.2em" class="st3">ALRI in</tspan>-hospital deaths in 2019</text>		</g>
+		<g id="shape61-90" v:mID="61" v:groupContext="shape" transform="translate(439.178,-342.842)">
+			<title>工作表.61</title>
+			<desc>Regional RSV-associated mortality rate in 2019</desc>
+			<v:textBlock v:margins="rect(0,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="29.1512" cy="594.341" width="58.31" height="39.0263"/>
+			<rect x="0" y="574.828" width="58.3025" height="39.0263" class="st9"/>
+			<text x="4" y="582.03" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Regional RSV-<tspan x="4" dy="1.2em"
+						class="st3">associated </tspan><tspan x="4" dy="1.2em" class="st3">mortality rate </tspan><tspan x="4"
+						dy="1.2em" class="st3">in </tspan>2019</text>		</g>
+		<g id="shape63-96" v:mID="63" v:groupContext="shape" transform="translate(22.6772,-218.915)">
+			<title>工作表.63</title>
+			<desc>Prediction of RSV-ALRI hospital admissions and deaths in 2026</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="122.669" cy="606.564" width="245.34" height="14.5801"/>
+			<rect x="0" y="599.274" width="245.338" height="14.5801" class="st10"/>
+			<text x="4" y="611.37" class="st11" v:langID="2052"><v:paragraph/><v:tabList/>Prediction of RSV-ALRI hospital admissions and deaths in 2026</text>		</g>
+		<g id="shape138-99" v:mID="138" v:groupContext="shape" transform="translate(436.535,-558.916)">
+			<title>工作表.138</title>
+			<desc>Regional and global estimates of overall RSV-associated deaths</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="63.0119" cy="601.022" width="126.03" height="25.6642"/>
+			<rect x="0" y="588.19" width="126.024" height="25.6642" class="st5"/>
+			<text x="4" y="599.39" class="st6" v:langID="1033"><v:paragraph/><v:tabList/>Regional and global estimates of <tspan
+						x="4" dy="1.2em" class="st3" v:langID="2052">overall </tspan><tspan class="st3" v:langID="2052">RSV</tspan><tspan
+						class="st3" v:langID="2052">-</tspan><tspan class="st3" v:langID="2052">associated</tspan> deaths</text>		</g>
+		<g id="shape149-106" v:mID="149" v:groupContext="shape" transform="translate(439.178,-263.994)">
+			<title>工作表.149</title>
+			<desc>Number of global and regional RSV-associated ALRI deaths in 2...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="63.4886" cy="594.931" width="126.98" height="37.8454"/>
+			<rect x="0" y="576.009" width="126.977" height="37.8454" class="st9"/>
+			<text x="4" y="587.21" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Number of global and regional RSV-<tspan
+						x="4" dy="1.2em" class="st3">associated ALRI deaths in </tspan>2019</text>		</g>
+		<g id="shape151-110" v:mID="151" v:groupContext="shape" v:layerMember="0" transform="translate(90.2444,-503.68)">
+			<title>动态连接线.151</title>
+			<path d="M7.09 613.85 L7.09 624.93" class="st12"/>
+		</g>
+		<g id="shape152-116" v:mID="152" v:groupContext="shape" v:layerMember="0" transform="translate(90.2444,-449.241)">
+			<title>动态连接线.152</title>
+			<path d="M7.09 613.85 L7.09 622.51" class="st12"/>
+		</g>
+		<g id="shape153-121" v:mID="153" v:groupContext="shape" v:layerMember="0" transform="translate(104.418,-397.223)">
+			<title>动态连接线.153</title>
+			<path d="M-7.09 613.85 L-7.09 623.69" class="st12"/>
+		</g>
+		<g id="shape154-126" v:mID="154" v:groupContext="shape" v:layerMember="0" transform="translate(89.8196,-344.023)">
+			<title>动态连接线.154</title>
+			<path d="M7.09 613.85 L7.09 650.52" class="st12"/>
+		</g>
+		<g id="shape155-131" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(223.224,-503.68)">
+			<title>动态连接线.155</title>
+			<path d="M7.09 613.85 L7.09 624.93" class="st12"/>
+		</g>
+		<g id="shape156-136" v:mID="156" v:groupContext="shape" v:layerMember="0" transform="translate(223.224,-449.241)">
+			<title>动态连接线.156</title>
+			<path d="M7.09 613.85 L7.09 622.51" class="st12"/>
+		</g>
+		<g id="shape157-141" v:mID="157" v:groupContext="shape" v:layerMember="0" transform="translate(223.224,-397.223)">
+			<title>动态连接线.157</title>
+			<path d="M7.09 613.85 L7.09 623.69" class="st12"/>
+		</g>
+		<g id="shape158-146" v:mID="158" v:groupContext="shape" v:layerMember="0" transform="translate(357.475,-503.68)">
+			<title>动态连接线.158</title>
+			<path d="M7.09 613.85 L7.09 676.95" class="st12"/>
+		</g>
+		<g id="shape159-151" v:mID="159" v:groupContext="shape" v:layerMember="0" transform="translate(359.338,-397.223)">
+			<title>动态连接线.159</title>
+			<path d="M7.09 613.85 L7.09 623.69" class="st12"/>
+		</g>
+		<g id="shape160-156" v:mID="160" v:groupContext="shape" v:layerMember="0" transform="translate(360.528,-344.032)">
+			<title>动态连接线.160</title>
+			<path d="M7.09 613.85 L7.09 650.17" class="st12"/>
+		</g>
+		<g id="shape163-161" v:mID="163" v:groupContext="shape" v:layerMember="0" transform="translate(298.45,-362.621)">
+			<title>动态连接线.163</title>
+			<path d="M0 613.85 L0 719.51 L69.41 719.51" class="st14"/>
+		</g>
+		<g id="shape166-164" v:mID="166" v:groupContext="shape" v:layerMember="0" transform="translate(434.68,-361.984)">
+			<title>动态连接线.166</title>
+			<path d="M0 613.85 L0 718.87 L-66.82 718.87" class="st14"/>
+		</g>
+		<g id="shape173-167" v:mID="173" v:groupContext="shape" v:layerMember="0" transform="translate(360.77,-256.843)">
+			<title>动态连接线.173</title>
+			<path d="M7.09 613.85 L7.09 649.24" class="st12"/>
+		</g>
+		<g id="shape174-172" v:mID="174" v:groupContext="shape" v:layerMember="0" transform="translate(380.486,-229.556)">
+			<title>动态连接线.174</title>
+			<path d="M-1.54 606.77 L-7.11 606.77" class="st12"/>
+		</g>
+		<g id="shape177-177" v:mID="177" v:groupContext="shape" v:layerMember="0" transform="translate(128.695,-317.126)">
+			<title>动态连接线.177</title>
+			<path d="M0 606.77 L-26.08 606.77" class="st12"/>
+		</g>
+		<g id="group178-182" transform="translate(18.75,-340.34)" v:mID="178" v:groupContext="group">
+			<title>工作表.178</title>
+			<g id="shape58-183" v:mID="58" v:groupContext="shape" transform="translate(-601.155,461.149) rotate(-90)">
+				<title>工作表.58</title>
+				<desc>Data collection</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="36.4987" cy="607.317" width="73" height="13.074"/>
+				<rect x="0" y="600.78" width="72.9975" height="13.074" class="st10"/>
+				<text x="12.18" y="611.98" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Data collection</text>			</g>
+			<g id="shape59-186" v:mID="59" v:groupContext="shape" transform="translate(-600.78,558.684) rotate(-90)">
+				<title>工作表.59</title>
+				<desc>Modeling</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="22.5502" cy="607.317" width="45.11" height="13.074"/>
+				<rect x="0" y="600.78" width="45.1004" height="13.074" class="st10"/>
+				<text x="7.11" y="611.98" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Modeling<v:newlineChar/></text>			</g>
+			<g id="shape60-189" v:mID="60" v:groupContext="shape" transform="translate(-600.78,613.854) rotate(-90)">
+				<title>工作表.60</title>
+				<desc>Estimates</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="22.7312" cy="607.317" width="45.47" height="13.074"/>
+				<rect x="0" y="600.78" width="45.4625" height="13.074" class="st10"/>
+				<text x="6.95" y="611.98" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Estimates</text>			</g>
+			<g id="shape133-192" v:mID="133" v:groupContext="shape" transform="translate(-601.155,513.457) rotate(-90)">
+				<title>工作表.133</title>
+				<desc>Imputation</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="26.8172" cy="607.317" width="53.64" height="13.074"/>
+				<rect x="0" y="600.78" width="53.6344" height="13.074" class="st10"/>
+				<text x="8.69" y="611.98" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Imputation</text>			</g>
+		</g>
+		<g id="shape179-195" v:mID="179" v:groupContext="shape" v:layerMember="0" transform="translate(289.038,-355.535)">
+			<title>动态连接线.179</title>
+			<path d="M4.76 606.77 L9.41 606.77" class="st14"/>
+		</g>
+		<g id="shape180-198" v:mID="180" v:groupContext="shape" v:layerMember="0" transform="translate(197.289,-317.379)">
+			<title>动态连接线.180</title>
+			<path d="M0 606.77 L28.18 606.77" class="st12"/>
+		</g>
+		<g id="shape181-203" v:mID="181" v:groupContext="shape" v:layerMember="0" transform="translate(261.774,-301.84)">
+			<title>动态连接线.181</title>
+			<path d="M0 613.85 L0 591.35 L34.31 591.35 A2.3622 2.3622 0 1 1 39.04 591.35 L100.33 591.35" class="st12"/>
+		</g>
+		<g id="shape183-208" v:mID="183" v:groupContext="shape" v:layerMember="0" transform="translate(223.794,-344.023)">
+			<title>动态连接线</title>
+			<path d="M7.09 613.85 L7.09 650.52" class="st12"/>
+		</g>
+		<g id="shape57-213" v:mID="57" v:groupContext="shape" transform="translate(20.4709,-581.466)">
+			<title>工作表.57</title>
+			<desc>Estimation of RSV infection burden in infants through 2019</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="112.757" cy="606.564" width="225.52" height="14.5801"/>
+			<rect x="0" y="599.274" width="225.515" height="14.5801" class="st10"/>
+			<text x="4" y="611.37" class="st11" v:langID="1033"><v:paragraph/><v:tabList/>Estimation of RSV infection burden in infants through 2019</text>		</g>
+		<g id="group192-216" transform="translate(26.4925,-18.375)" v:mID="192" v:groupContext="group">
+			<title>工作表.192</title>
+			<g id="shape71-217" v:mID="71" v:groupContext="shape" transform="translate(277.641,0)">
+				<title>工作表.71</title>
+				<desc>Predicted country-level hospital admissions and deaths of RSV...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="62.7904" cy="594.82" width="125.59" height="38.068"/>
+				<rect x="0" y="575.786" width="125.581" height="38.068" class="st15"/>
+				<text x="4" y="586.99" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Predicted country-level hospital <tspan
+							x="4" dy="1.2em" class="st3">admissions and deaths of RSV</tspan>-ALRI <tspan x="4" dy="1.2em"
+							class="st3">in </tspan>2026  </text>			</g>
+			<g id="shape72-222" v:mID="72" v:groupContext="shape">
+				<title>工作表.72</title>
+				<desc>Effectiveness/efficacy, protection duration of novel RSV prop...</desc>
+				<v:textBlock v:margins="rect(4,0,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="64.6453" cy="594.82" width="129.3" height="38.068"/>
+				<rect x="0" y="575.786" width="129.291" height="38.068" class="st16"/>
+				<text x="4" y="586.99" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Effectiveness/efficacy, protection <tspan
+							x="4" dy="1.2em" class="st3">duration of novel RSV prophylactic </tspan><tspan x="4" dy="1.2em"
+							class="st3">products targeting infants </tspan> </text>			</g>
+			<g id="shape82-227" v:mID="82" v:groupContext="shape" transform="translate(412.44,0)">
+				<title>工作表.82</title>
+				<desc>Predicted global and regional hospital admissions and deaths ...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="63.4886" cy="594.82" width="126.98" height="38.068"/>
+				<rect x="0" y="575.786" width="126.977" height="38.068" class="st15"/>
+				<text x="4" y="586.99" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Predicted  global and regional <tspan
+							x="4" dy="1.2em" class="st3">hospital admissions and deaths of </tspan><tspan x="4" dy="1.2em"
+							class="st3">RSV</tspan>-ALRI in 2026  </text>			</g>
+			<g id="shape91-232" v:mID="91" v:groupContext="shape" transform="translate(139.168,0)">
+				<title>工作表.91</title>
+				<desc>Country-level prevention status Product availability and poli...</desc>
+				<v:textBlock v:margins="rect(4,0,4,4)" v:tabSpace="79.3701"/>
+				<v:textRect cx="63.4886" cy="568.087" width="126.98" height="91.5343"/>
+				<rect x="0" y="522.32" width="126.977" height="91.5343" class="st16"/>
+				<text x="4" y="535.03" class="st2" v:langID="1033"><v:paragraph v:spAfter="3"/><v:tabList/>Country-level <tspan
+							class="st3" v:langID="2052">p</tspan>revention <tspan class="st3" v:langID="2052">s</tspan>tatus<v:newlineChar/><v:paragraph/><tspan
+							x="4" dy="1.575em" class="st17">Product </tspan><tspan class="st17" v:langID="2052">a</tspan><tspan
+							class="st17">vailability and </tspan><tspan class="st17" v:langID="2052">po</tspan><tspan class="st17">licy</tspan>:<v:newlineChar/><v:paragraph
+							v:indentFirst="-18" v:indentLeft="18" v:bullet="2"/><tspan x="4" dy="1.213em" class="st18"
+							v:langID="2052" v:isBullet="true">o</tspan><tspan class="st18" v:langID="2052"> </tspan><tspan
+							class="st3" v:langID="2052">NIP</tspan><tspan class="st3" v:langID="2052">-</tspan><tspan class="st3"
+							v:langID="2052">Included<v:newlineChar/></tspan><tspan x="4" dy="1.218em" class="st18" v:langID="2052"
+							v:isBullet="true">o</tspan><tspan class="st18" v:langID="2052"> </tspan><tspan class="st3"
+							v:langID="2052">Licensed<v:newlineChar/></tspan><tspan x="4" dy="1.218em" class="st18"
+							v:isBullet="true">o</tspan><tspan class="st18"> </tspan>Unlicensed<v:newlineChar/><v:paragraph/><tspan
+							x="4" dy="1.204em" class="st17">Immunization</tspan><tspan class="st17" v:langID="2052"> </tspan><tspan
+							class="st17" v:langID="2052">strategy</tspan><tspan class="st17" v:langID="2052">(</tspan><tspan
+							class="st17" v:langID="2052">if a</tspan><tspan class="st17">vailab</tspan><tspan class="st17"
+							v:langID="2052">le</tspan><tspan class="st17" v:langID="2052">)</tspan><tspan class="st3"
+							v:langID="2052">:<v:newlineChar/><v:paragraph v:indentFirst="-18" v:indentLeft="18" v:bullet="2"/></tspan><tspan
+							x="4" dy="1.213em" class="st18" v:langID="2052" v:isBullet="true">o</tspan><tspan class="st18"
+							v:langID="2052"> </tspan><tspan class="st3" v:langID="2052">Seasonal with catch</tspan><tspan
+							class="st3" v:langID="2052">-</tspan><tspan class="st3" v:langID="2052">up</tspan><tspan class="st3"
+							v:langID="2052">(</tspan><tspan class="st3" v:langID="2052">mAb</tspan><tspan class="st3"
+							v:langID="2052">)<v:newlineChar/></tspan><tspan x="4" dy="1.218em" class="st18" v:langID="2052"
+							v:isBullet="true">o</tspan><tspan class="st18" v:langID="2052"> </tspan><tspan class="st3"
+							v:langID="2052">Seasonal </tspan><tspan class="st3" v:langID="2052">(</tspan><tspan class="st3"
+							v:langID="2052">maternal vaccine</tspan><tspan class="st3" v:langID="2052">)</tspan></text>			</g>
+			<g id="shape3-275" v:mID="3" v:groupContext="shape" transform="translate(3.19744E-014,-159.498)">
+				<title>工作表.3</title>
+				<desc>Collect representative RSV seasonality data across hemispheri...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="64.6453" cy="594.82" width="129.3" height="38.068"/>
+				<rect x="0" y="575.786" width="129.291" height="38.068" class="st19"/>
+				<text x="4" y="586.99" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Collect r<tspan class="st3"
+							v:langID="1033">epresentative RSV </tspan><tspan x="4" dy="1.2em" class="st3" v:langID="1033">seasonality data </tspan>across<tspan
+							class="st3" v:langID="1033"> </tspan><tspan class="st3" v:langID="1033">hemispheric </tspan><tspan
+							x="4" dy="1.2em" class="st3" v:langID="1033">and latitudinal regions</tspan></text>			</g>
+			<g id="shape13-283" v:mID="13" v:groupContext="shape" transform="translate(139.168,-106.332)">
+				<title>工作表.13</title>
+				<desc>Country-level proportion matrix of RSV-ALRI hospital admissio...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="63.4886" cy="594.82" width="126.98" height="38.068"/>
+				<rect x="0" y="575.786" width="126.977" height="38.068" class="st19"/>
+				<text x="4" y="586.99" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Country-level proportion matrix <v:newlineChar/><tspan
+							x="4" dy="1.2em" class="st3">of RSV</tspan>-ALRI hospital admissions by <tspan x="4" dy="1.2em"
+							class="st3">birth month and age in months</tspan></text>			</g>
+			<g id="shape14-288" v:mID="14" v:groupContext="shape" transform="translate(3.19744E-014,-106.332)">
+				<title>工作表.14</title>
+				<desc>Latitude-hemisphere specific proportion of RSV-ALRI hospital ...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="64.6453" cy="594.82" width="129.3" height="38.068"/>
+				<rect x="0" y="575.786" width="129.291" height="38.068" class="st19"/>
+				<text x="4" y="586.99" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Latitude-hemisphere specific <tspan
+							x="4" dy="1.2em" class="st3">proportion of RSV</tspan>-ALRI hospital <tspan x="4" dy="1.2em"
+							class="st3">admissions by birth month</tspan></text>			</g>
+			<g id="shape18-293" v:mID="18" v:groupContext="shape" transform="translate(-3.19744E-014,-53.166)">
+				<title>工作表.18</title>
+				<desc>Collect country-level promotion status of novel RSV prophylac...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="64.6453" cy="594.82" width="129.3" height="38.068"/>
+				<rect x="0" y="575.786" width="129.291" height="38.068" class="st16"/>
+				<text x="4" y="586.99" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Collect country-level promotion <tspan
+							x="4" dy="1.2em" class="st3">status of novel RSV prophylactic </tspan><tspan x="4" dy="1.2em"
+							class="st3">products targeting infants</tspan></text>			</g>
+			<g id="shape44-298" v:mID="44" v:groupContext="shape" transform="translate(276.244,-159.498)">
+				<title>工作表.44</title>
+				<desc>Counterfactual country-level hospital admissions and deaths o...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="63.4886" cy="594.82" width="126.98" height="38.068"/>
+				<path d="M0 613.85 L126.98 613.85 L126.98 575.79 L0 575.79 L0 613.85 Z" class="st20"/>
+				<text x="4" y="586.99" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Counterfactual country-level <tspan
+							x="4" dy="1.2em" class="st3">hospital admissions and deaths of </tspan><tspan x="4" dy="1.2em"
+							class="st3">RSV</tspan>-ALRI in 2026  </text>			</g>
+			<g id="shape62-303" v:mID="62" v:groupContext="shape" transform="translate(139.168,-159.498)">
+				<title>工作表.62</title>
+				<desc>Region-income or income-specific RSV-ALRI hospital admissions...</desc>
+				<v:textBlock v:margins="rect(4,0,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="63.4886" cy="594.82" width="126.98" height="38.068"/>
+				<rect x="0" y="575.786" width="126.977" height="38.068" class="st19"/>
+				<text x="4" y="586.99" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Region-income or income-specific <tspan
+							x="4" dy="1.2em" class="st3">RSV</tspan>-ALRI hospital admissions <tspan x="4" dy="1.2em" class="st3">proportion by age in months</tspan></text>			</g>
+			<g id="shape76-308" v:mID="76" v:groupContext="shape" transform="translate(276.244,-67.8749)">
+				<title>工作表.76</title>
+				<desc>Counterfactual country-level hospital admissions and deaths o...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="63.4886" cy="585.109" width="126.98" height="57.491"/>
+				<path d="M0 613.85 L126.98 613.85 L126.98 556.36 L0 556.36 L0 613.85 Z" class="st20"/>
+				<text x="4" y="567.56" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Counterfactual country-level <tspan
+							x="4" dy="1.2em" class="st3">h</tspan>ospital admissions and deaths of <tspan x="4" dy="1.2em"
+							class="st3">RSV</tspan>-ALRI in 2026 by birth month <tspan x="4" dy="1.2em" class="st3">and age in months</tspan></text>			</g>
+			<g id="shape78-314" v:mID="78" v:groupContext="shape" transform="translate(412.44,-159.498)">
+				<title>工作表.78</title>
+				<desc>Counterfactual global and regional hospital admissions and de...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="63.4886" cy="594.82" width="126.98" height="38.068"/>
+				<path d="M0 613.85 L126.98 613.85 L126.98 575.79 L0 575.79 L0 613.85 Z" class="st20"/>
+				<text x="4" y="586.99" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Counterfactual  global and regional <tspan
+							x="4" dy="1.2em" class="st3">hospital admissions and deaths of </tspan><tspan x="4" dy="1.2em"
+							class="st3">RSV</tspan>-ALRI in 2026  </text>			</g>
+			<g id="shape117-319" v:mID="117" v:groupContext="shape" v:layerMember="0" transform="translate(266.145,-43.1311)">
+				<title>动态连接线.117</title>
+				<path d="M0 606.77 L69.21 606.77" class="st12"/>
+			</g>
+			<g id="shape118-324" v:mID="118" v:groupContext="shape" v:layerMember="0" transform="translate(57.5587,-159.498)">
+				<title>动态连接线.118</title>
+				<path d="M7.09 613.85 L7.09 623.44" class="st12"/>
+			</g>
+			<g id="shape119-329" v:mID="119" v:groupContext="shape" v:layerMember="0" transform="translate(195.57,-159.498)">
+				<title>动态连接线.119</title>
+				<path d="M7.09 613.85 L7.09 623.44" class="st12"/>
+			</g>
+			<g id="shape120-334" v:mID="120" v:groupContext="shape" v:layerMember="0" transform="translate(127.143,-118.279)">
+				<title>动态连接线.120</title>
+				<path d="M2.15 606.77 L6.51 606.77" class="st12"/>
+			</g>
+			<g id="shape121-339" v:mID="121" v:groupContext="shape" v:layerMember="0" transform="translate(266.145,-142.865)">
+				<title>动态连接线.121</title>
+				<path d="M0 620.94 L70.47 620.94" class="st12"/>
+			</g>
+			<g id="shape124-344" v:mID="124" v:groupContext="shape" v:layerMember="0" transform="translate(400.744,-171.445)">
+				<title>动态连接线.124</title>
+				<path d="M2.48 606.77 L6.18 606.77" class="st12"/>
+			</g>
+			<g id="shape125-349" v:mID="125" v:groupContext="shape" v:layerMember="0" transform="translate(400.744,-11.9474)">
+				<title>动态连接线.125</title>
+				<path d="M2.48 606.77 L6.16 606.77" class="st21"/>
+			</g>
+			<g id="shape127-355" v:mID="127" v:groupContext="shape" v:layerMember="0" transform="translate(335.3,-159.498)">
+				<title>动态连接线.127</title>
+				<path d="M7.09 613.85 L7.09 642.47" class="st12"/>
+			</g>
+			<g id="shape130-360" v:mID="130" v:groupContext="shape" v:layerMember="0" transform="translate(127.143,-65.1133)">
+				<title>动态连接线.130</title>
+				<path d="M2.15 606.77 L6.51 606.77" class="st12"/>
+			</g>
+			<g id="shape131-365" v:mID="131" v:groupContext="shape" v:layerMember="0" transform="translate(127.143,-11.9474)">
+				<title>动态连接线.131</title>
+				<path d="M2.15 606.77 L6.51 606.77" class="st12"/>
+			</g>
+			<g id="shape139-370" v:mID="139" v:groupContext="shape" transform="translate(455.397,-67.8749)">
+				<title>工作表.139</title>
+				<desc>Global and regional decreasing trend of hospital admissions a...</desc>
+				<v:textBlock v:margins="rect(4,2,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="42.0101" cy="585.109" width="84.03" height="57.491"/>
+				<rect x="0" y="556.363" width="84.0202" height="57.491" class="st15"/>
+				<text x="4" y="567.56" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Global and regional <tspan x="4"
+							dy="1.2em" class="st3">d</tspan><tspan class="st3" v:langID="1033">ecreasing </tspan>t<tspan
+							class="st3" v:langID="1033">rend</tspan> of <tspan x="4" dy="1.2em" class="st3">h</tspan>ospital admissions and <tspan
+							x="4" dy="1.2em" class="st3">deaths of RSV</tspan>-ALRI<v:newlineChar/><tspan x="4" dy="1.2em"
+							class="st3">from </tspan>2019 to 2016</text>			</g>
+			<g id="shape144-379" v:mID="144" v:groupContext="shape" v:layerMember="0" transform="translate(427.051,-159.498)">
+				<title>动态连接线.144</title>
+				<path d="M7.09 613.85 L7.09 735.28" class="st14"/>
+			</g>
+			<g id="shape147-382" v:mID="147" v:groupContext="shape" v:layerMember="0" transform="translate(347.989,-67.8749)">
+				<title>动态连接线.147</title>
+				<path d="M-6.74 613.85 L-7.31 638.15" class="st12"/>
+			</g>
+			<g id="shape191-387" v:mID="191" v:groupContext="shape" v:layerMember="0" transform="translate(434.137,-88.4172)">
+				<title>动态连接线.191</title>
+				<path d="M0 606.77 L15.74 606.77" class="st12"/>
+			</g>
+		</g>
+		<g id="shape195-392" v:mID="195" v:groupContext="shape" transform="translate(508.228,-503.68)">
+			<title>工作表.195</title>
+			<desc>Identify study sites with RSV overall deaths in all-cause dea...</desc>
+			<v:textBlock v:margins="rect(4,2,4,2)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="29.1512" cy="586.132" width="58.31" height="55.4439"/>
+			<rect x="0" y="558.41" width="58.3025" height="55.4439" class="st9"/>
+			<text x="2" y="569.61" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>Identify study <tspan x="2" dy="1.2em"
+						class="st3">sites with RSV </tspan><tspan x="2" dy="1.2em" class="st3">overall deaths in </tspan><tspan
+						x="2" dy="1.2em" class="st3">all</tspan>-cause<tspan class="st3" v:langID="2052"> </tspan><tspan
+						class="st3" v:langID="2052">deaths</tspan></text>		</g>
+		<g id="shape196-400" v:mID="196" v:groupContext="shape" transform="translate(439.178,-503.68)">
+			<title>工作表.196</title>
+			<desc>Collect national all-cause deaths data for children younger t...</desc>
+			<v:textBlock v:margins="rect(4,2,4,2)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="29.1512" cy="586.132" width="58.31" height="55.4439"/>
+			<rect x="0" y="558.41" width="58.3025" height="55.4439" class="st9"/>
+			<text x="2" y="569.61" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>Collect national <tspan x="2" dy="1.2em"
+						class="st3">all</tspan>-cause <tspan class="st3" v:langID="2052">deaths </tspan><tspan x="2" dy="1.2em"
+						class="st3">data for children </tspan><tspan x="2" dy="1.2em" class="st3">younger than </tspan>5 <tspan
+						x="2" dy="1.2em" class="st3">years</tspan></text>		</g>
+		<g id="shape197-408" v:mID="197" v:groupContext="shape" transform="translate(439.178,-449.241)">
+			<title>工作表.197</title>
+			<desc>Imputation of all-cause deaths by narrower age bands</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="42.6158" cy="594.341" width="85.24" height="39.0263"/>
+			<rect x="0" y="574.828" width="85.2316" height="39.0263" class="st9"/>
+			<text x="4" y="586.03" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Imputation of all-cause <tspan x="4"
+						dy="1.2em" class="st3">deaths by narrower age </tspan><tspan x="4" dy="1.2em" class="st3">bands</tspan></text>		</g>
+		<g id="shape198-413" v:mID="198" v:groupContext="shape" transform="translate(508.228,-397.223)">
+			<title>工作表.198</title>
+			<desc>Metaregression of % of RSV in all-cause deaths</desc>
+			<v:textBlock v:margins="rect(4,2,4,2)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="29.1512" cy="594.931" width="58.31" height="37.8454"/>
+			<rect x="0" y="576.009" width="58.3025" height="37.8454" class="st9"/>
+			<text x="2" y="587.21" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>Metaregression <tspan x="2" dy="1.2em"
+						class="st3">of </tspan>% of RSV in <tspan x="2" dy="1.2em" class="st3">all</tspan>-cause deaths</text>		</g>
+		<g id="shape200-418" v:mID="200" v:groupContext="shape" transform="translate(508.228,-345.204)">
+			<title>工作表.200</title>
+			<desc>National % of all-cause deaths associated with RSV</desc>
+			<v:textBlock v:margins="rect(0,0,4,2)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="29.1512" cy="594.931" width="58.31" height="37.8454"/>
+			<rect x="0" y="576.009" width="58.3025" height="37.8454" class="st9"/>
+			<text x="2" y="583.21" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>National % of all-<tspan x="2" dy="1.2em"
+						class="st3">cause deaths </tspan><tspan x="2" dy="1.2em" class="st3">associated with </tspan><tspan x="2"
+						dy="1.2em" class="st3">RSV</tspan></text>		</g>
+		<g id="shape201-424" v:mID="201" v:groupContext="shape" v:layerMember="0" transform="translate(530.633,-503.68)">
+			<title>动态连接线.201</title>
+			<path d="M7.09 613.85 L7.09 676.95" class="st12"/>
+		</g>
+		<g id="shape202-429" v:mID="202" v:groupContext="shape" v:layerMember="0" transform="translate(461.242,-503.68)">
+			<title>动态连接线.202</title>
+			<path d="M7.09 613.85 L7.09 623.75" class="st12"/>
+		</g>
+		<g id="shape203-434" v:mID="203" v:groupContext="shape" v:layerMember="0" transform="translate(495.767,-449.241)">
+			<title>动态连接线.203</title>
+			<path d="M7.09 613.85 L7.09 755.74" class="st12"/>
+		</g>
+		<g id="shape206-439" v:mID="206" v:groupContext="shape" v:layerMember="0" transform="translate(537.379,-345.204)">
+			<title>动态连接线.206</title>
+			<path d="M0 613.85 L0 633.92 L-29.01 633.92" class="st12"/>
+		</g>
+		<g id="shape207-444" v:mID="207" v:groupContext="shape" v:layerMember="0" transform="translate(461.242,-301.84)">
+			<title>动态连接线.207</title>
+			<path d="M7.09 613.85 L7.09 578.37" class="st12"/>
+		</g>
+		<g id="shape208-449" v:mID="208" v:groupContext="shape" v:layerMember="0" transform="translate(429.843,-354.898)">
+			<title>动态连接线.208</title>
+			<path d="M4.84 606.77 L9.34 606.77" class="st14"/>
+		</g>
+		<g id="shape210-452" v:mID="210" v:groupContext="shape" v:layerMember="0" transform="translate(530.292,-397.223)">
+			<title>动态连接线.210</title>
+			<path d="M7.09 613.85 L7.09 622.51" class="st12"/>
+		</g>
+	</g>
+</svg>
