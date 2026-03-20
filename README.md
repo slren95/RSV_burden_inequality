@@ -1,5 +1,5 @@
 This repository contains the analysis and modelling code for the manuscript:
-**“Regional inequality in infant RSV morbidity and mortality burden in the era of expanded RSV passive immunisation: a global projection modelling study.”**
+**“Regional inequality in infant RSV morbidity and mortality burden in the era of expanded RSV passive immunisation”**
 
 The project quantifies RSV-associated morbidity and mortality burden in infants and its regional (WHO region) and economic (World Bank income group) inequality, comparing **2019** estimates with **2026** projections under:
 
