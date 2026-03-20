@@ -36,6 +36,7 @@ library(cowplot)
 library(ggplotify)
 library(ggsci)
 library(scales)
+library(ggbreak)
 
 theme_set(theme_classic(base_family = "Helvetica"))
 
@@ -195,14 +196,14 @@ legend_plot <- ggdraw(legend)+
   theme(plot.margin = margin(t = 0, r = 0, b = 0, l = -30))
 
 
-area_global  <- patchwork::area(1, 1, 1, 2)  # 左上图
-area_spacer <- patchwork::area(2, 1, 2, 1)  # 左下 spacer
-area_legend <- patchwork::area(2, 2, 2, 2)  # legend 单独放一格
-area_byregion <- patchwork::area(1, 3, 2, 3)  # byregion 图，右边跨两行
+area_global  <- patchwork::area(1, 1, 1, 2)  # top left plot
+area_spacer <- patchwork::area(2, 1, 2, 1)  # bottom left spacer
+area_legend <- patchwork::area(2, 2, 2, 2)  # legend in its own cell
+area_byregion <- patchwork::area(1, 3, 2, 3)  # byregion plot; right side spans two rows
 
 (p1_dea+theme(legend.position = 'none')) + plot_spacer() + legend_plot + p2_dea +
 plot_layout(design = c(area_global, area_spacer, area_legend, area_byregion),
-            widths = c(0.05, 0.9, 3),  # 第二列就是 spacer，调宽度
+            widths = c(0.05, 0.9, 3),  # second column is spacer; adjust width
             heights = c(1, 1),
             axis_titles = 'collect')
 
@@ -258,14 +259,14 @@ legend_plot <- ggdraw(legend)+
   theme(plot.margin = margin(t = 0, r = 0, b = 0, l = -30))
 
 
-area_global  <- patchwork::area(1, 1, 1, 2)  # 左上图
-area_spacer <- patchwork::area(2, 1, 2, 1)  # 左下 spacer
-area_legend <- patchwork::area(2, 2, 2, 2)  # legend 单独放一格
-area_byregion <- patchwork::area(1, 3, 2, 3)  # byregion 图，右边跨两行
+area_global  <- patchwork::area(1, 1, 1, 2)  # top left plot
+area_spacer <- patchwork::area(2, 1, 2, 1)  # bottom left spacer
+area_legend <- patchwork::area(2, 2, 2, 2)  # legend in its own cell
+area_byregion <- patchwork::area(1, 3, 2, 3)  # byregion plot; right side spans two rows
 
 (p1_hos+theme(legend.position = 'none')) + plot_spacer() + legend_plot + p2_hos +
   plot_layout(design = c(area_global, area_spacer, area_legend, area_byregion),
-              widths = c(0.05, 0.9, 3),  # 第二列就是 spacer，调宽度
+              widths = c(0.05, 0.9, 3),  # second column is spacer; adjust width
               heights = c(1, 1),
               axis_titles = 'collect')
 
@@ -380,14 +381,14 @@ legend_plot <- ggdraw(legend)+
   theme(plot.margin = margin(t = 0, r = 0, b = 0, l = -30))
 
 
-area_global  <- patchwork::area(1, 1, 1, 2)  # 左上图
-area_spacer <- patchwork::area(2, 1, 2, 1)  # 左下 spacer
-area_legend <- patchwork::area(2, 2, 2, 2)  # legend 单独放一格
-area_byregion <- patchwork::area(1, 3, 2, 3)  # byregion 图，右边跨两行
+area_global  <- patchwork::area(1, 1, 1, 2)  # top left plot
+area_spacer <- patchwork::area(2, 1, 2, 1)  # bottom left spacer
+area_legend <- patchwork::area(2, 2, 2, 2)  # legend in its own cell
+area_byregion <- patchwork::area(1, 3, 2, 3)  # byregion plot; right side spans two rows
 
 (p1_dea2+theme(legend.position = 'none')) + plot_spacer() + legend_plot + (p2_dea2+theme(legend.position = 'none')) +
   plot_layout(design = c(area_global, area_spacer, area_legend, area_byregion),
-              widths = c(0.05, 0.9, 3),  # 第二列就是 spacer，调宽度
+              widths = c(0.05, 0.9, 3),  # second column is spacer; adjust width
               heights = c(1, 1),
               axis_titles = 'collect')
 
@@ -403,7 +404,7 @@ ggsave('pdf/Quintile_dea2.pdf',width = 10,height = 5,dpi=200)
                                                     text = element_text(size=14),
                                                     legend.text = element_text(size=13))) +
   plot_layout(design = c(area_global, area_spacer, area_legend, area_byregion),
-              widths = c(0.05, 0.9, 3),  # 第二列就是 spacer，调宽度
+              widths = c(0.05, 0.9, 3),  # second column is spacer; adjust width
               heights = c(1, 1),
               axis_titles = 'collect')
 
@@ -527,7 +528,7 @@ legend_plot.GBD <- ggdraw(legend.GBD)+
 
 (p1_dea2.GBD+theme(legend.position = 'none')) + plot_spacer() + legend_plot + (p2_dea2.GBD+theme(legend.position = 'none')) +
   plot_layout(design = c(area_global, area_spacer, area_legend, area_byregion),
-              widths = c(0.05, 0.9, 3),  # 第二列就是 spacer，调宽度
+              widths = c(0.05, 0.9, 3),  # second column is spacer; adjust width
               heights = c(1, 1),
               axis_titles = 'collect')
 
@@ -541,5 +542,117 @@ df_text.GBD %>% pivot_wider(id_cols = c(metric,hos_dea),names_from = Group,value
 # 2 hos_pre hos     5.7 (4.0-9.9)    3.9 (2.3-8.1)    4.3 (2.6-8.8)  3.0 (2.4-4.2) 2.3 (1.9-2.9)       4.2 (3.0-6.8)    3.9 (1.5-10.3)
 # 3 dea_ctr dea     35.5 (27.2-46.6) 17.4 (12.2-25.5) 8.4 (5.3-13.5) 5.7 (4.0-8.9) 301.9 (225.0-383.5) 17.9 (10.3-29.4) 2.1 (1.4-3.6) 
 # 4 dea_pre dea     40.5 (30.4-53.7) 30.1 (21.2-45.0) 8.4 (5.3-13.5) 5.7 (4.0-8.9) 613.0 (384.7-760.6) 18.1 (10.5-30.0) 2.1 (1.4-3.6) 
+
+save.image('rda/code_11.8_Quintile.RData')
+
+df_plot_Q5GBD<-bind_rows(df_quintile_wide_sum %>%
+            filter(hos_dea=='dea') %>%
+            dplyr::select(metric:hos_dea, matches('q51_')) %>%
+            mutate(type='main'),
+          df_quintile_wide_sum.GBD %>%
+            filter(hos_dea=='dea') %>%
+            dplyr::select(metric:hos_dea, matches('q51_')) %>%
+            mutate(type='GBD')
+) %>%
+  mutate(Group=ifelse(Group=='GLOBAL','Global',Group))
+
+pal <- pal_lancet()(9)  # grab the full set
+
+plot_eur<-df_plot_Q5GBD %>%
+  filter(Group=='EUR') %>%
+  ggplot(aes(x = type, color = type,shape=scenario,linetype = scenario)) +
+  geom_point(aes(y = q51_ratio_median), 
+             position = position_dodge(width = 0.5)) +
+  geom_linerange(aes(ymin = q51_ratio_lower, 
+                     ymax = q51_ratio_upper),
+                 position = position_dodge(width = 0.5))+
+  facet_wrap(Group~.,scales = 'free',drop = T)+
+  theme_bw()+
+  theme(legend.position = 'null')+
+  scale_y_break(c(40, 200), scales = c(1, 1))+
+  scale_shape_manual(values = c(
+    'no implementation scenario' = 1,
+    'June-2025 product use scenario' = 19
+  ))+
+  scale_linetype_manual(values = c(
+    'no implementation scenario' = 'dotted',
+    'June-2025 product use scenario' = 'solid'
+  ))+
+  scale_colour_manual(
+    values = pal[c(6, 7)],
+    name = NULL,
+    labels = c("using GBD data", "main analysis")
+  )+
+  scale_x_discrete(labels = c(
+    "GBD" = "using GBD data",  # if type is already this value
+    "main" = "main analysis"     # if type is already this value
+  ))+
+  labs(x=NULL,y='Q5-Q1 ratio')
+
+plots_GBD<-split(df_plot_Q5GBD,df_plot_Q5GBD$Group) %>%
+  map(~{
+    ggplot(.x,aes(x = type, color = type,shape=scenario,linetype = scenario)) +
+      geom_point(aes(y = q51_ratio_median), 
+                 position = position_dodge(width = 0.5)) +
+      geom_linerange(aes(ymin = q51_ratio_lower, 
+                         ymax = q51_ratio_upper),
+                     position = position_dodge(width = 0.5))+
+      facet_wrap(Group~.,scales = 'free',drop = T)+
+      theme_bw()+
+      theme(legend.position = 'top')+
+      scale_shape_manual(name=NULL,values = c(
+        'no implementation scenario' = 1,
+        'June-2025 product use scenario' = 19
+      ))+
+      scale_linetype_manual(name=NULL,values = c(
+        'no implementation scenario' = 'dotted',
+        'June-2025 product use scenario' = 'solid'
+      ))+
+      scale_colour_manual(
+        values = pal[c(6, 7)],
+        name = NULL,
+        labels = c("using GBD data", "main analysis")
+      )+
+      scale_x_discrete(labels = c(
+        "GBD" = "using GBD data",  # if type is already this value
+        "main" = "main analysis"     # if type is already this value
+      ))+
+      labs(x=NULL,y='Q5-Q1 ratio')
+  })
+
+
+# When assembling plots, avoid using axes="collect" for ggbreak; it can crash easily
+# Recommended: collect only guides (legends)
+final_plot <- wrap_plots(plots_GBD[c(1:4, 6:7)], nrow = 2) + 
+  plot_layout(guides = "collect",axis='collect') & 
+  theme(legend.position = "null")
+
+p_legend<-get_legend_35(plots_GBD[[1]]+theme(legend.position = 'left',
+                                               legend.text = element_text(size=10))) %>% 
+  ggdraw()
+
+
+# Patchwork layout composition
+(plots_GBD[[1]] / p_legend) +final_plot
+
+design <- "
+  ABBB
+  CBBB
+"
+
+# 2. Assemble with wrap_plots
+# Note: put the plots in the list in A, B, C order, or combine them directly with `+`
+combined_layout <- wrap_plots(
+  A = plots_GBD[[5]]+theme(legend.position = 'null'), 
+  B = final_plot, 
+  C = p_legend, 
+  design = design
+)
+
+# 3. Adjust details (e.g., hide unnecessary legends)
+combined_layout + 
+  plot_layout(guides = 'keep')
+
+ggsave('Figures/Q5-Q1-GBD.tiff',width = 10,height = 5,dpi=200)
 
 
