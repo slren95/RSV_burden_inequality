@@ -27,7 +27,7 @@ Run from the project root so relative paths resolve correctly.
 
 Below are the input/output notes and per-script descriptions.
 
-## 1.Data input
+## 1. Data Input
 
 ### 🗃️ workspaceToBegin.RData
 
@@ -43,7 +43,7 @@ Raw data on population, seasonality, and immunisation tracking.
 
 ---
 
-## 2.Main Analysis Scripts
+## 2. Main Analysis Scripts
 
 ### 📄 code_01_incidence.R
 
