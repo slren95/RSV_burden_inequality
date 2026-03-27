@@ -53,13 +53,10 @@ Estimate RSV-associated ALRI community incidence rates in infants by WHO region 
 
 Estimate RSV-associated ALRI hospital admission rates in infants by WHO region and income level (with imputation and meta-analysis).
 
-### 📄 code_03_Inc_to_Hos_ratio.R
-
-Analyzes the ratio of community incidence to hospitalization for RSV-ALRI.
 
 ### 📄 code_03_inc_to_hos_ratio.R
 
-Lowercase-named variant of the incidence-to-hospitalisation ratio script (kept for compatibility). Prefer `code_03_Inc_to_Hos_ratio.R` unless you specifically rely on this filename.
+Analyzes the ratio of community incidence to hospitalization for RSV-ALRI.
 
 ### 📄 code_04_in_hos_CFR.R
 
@@ -153,7 +150,9 @@ Estimate the age distribution of RSV hospital admissions by WHO region and incom
 
 Shiny app source for the immunisation tracker.
 
-This dashboard summarises the global implementation status of RSV prevention products for infants, using data curated up to **June 2025**. It is publicly available at: [idem.njmu.edu.cn/shiny/rsvpassiveimmutracker](https://idem.njmu.edu.cn/shiny/rsvpassiveimmutracker/).
+This dashboard summarises the global implementation status of RSV prevention products for infants, using data curated up to **June 2025**. It is publicly available at: [https://idem.njmu.edu.cn/shiny/rsvpassiveimmutracker](https://idem.njmu.edu.cn/shiny/rsvpassiveimmutracker/).
+
+The Shiny app is maintained in a separate repository: [slren95/rsvpassiveimmutracker](https://github.com/slren95/rsvpassiveimmutracker).
 
 ![](Figures/Snipaste_2025-10-13_09-12-40.png)
 
